@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a58e8f69-14e9-4bee-982f-870dc488f705" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wZPQWqvhCtR5OJp19ZUO1q1RYW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring_exception/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.123304546" />
+    <property name="project.structure.side.proportion" value="0.14084506" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dao" />
+      <recent name="service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_exception\src\main\webapp" />
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_exception\src\main\webapp\WEB-INF" />
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_exception\src\main\resources" />
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_exception\src\main\java\com" />
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_test\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\xh\IdeaProjects\Spring\spring_exception\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interceptor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.findByUsernameAndPassword">
+    <configuration name="JDBCTemplateCURDTest.testQueryCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.JDBCTemplateCURDTest" />
+      <option name="METHOD_NAME" value="testQueryCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemplateCURDTest.testQueryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.JDBCTemplateCURDTest" />
+      <option name="METHOD_NAME" value="testQueryOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.findByUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="findByUsernameAndPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testQueryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="testQueryOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring_test [tomcat8:run-war]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat8:run-war" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../spring_test" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.findByUsernameAndPassword" />
+        <item itemvalue="JUnit.test.testQueryOne" />
+        <item itemvalue="Maven.spring_test [tomcat8:run-war]" />
+        <item itemvalue="JUnit.JDBCTemplateCURDTest.testQueryCount" />
+        <item itemvalue="JUnit.JDBCTemplateCURDTest.testQueryOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a58e8f69-14e9-4bee-982f-870dc488f705" name="Changes" comment="" />
+      <created>1628663121609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628663121609</updated>
+      <workItem from="1628663122783" duration="13359000" />
+      <workItem from="1628728987203" duration="523000" />
+      <workItem from="1628729857263" duration="1607000" />
+      <workItem from="1628748305221" duration="17753000" />
+      <workItem from="1628843198251" duration="639000" />
+      <workItem from="1628920798698" duration="1314000" />
+      <workItem from="1629075419520" duration="3760000" />
+      <workItem from="1629094366321" duration="12107000" />
+      <workItem from="1629117089594" duration="14122000" />
+      <workItem from="1629186751055" duration="5870000" />
+      <workItem from="1629199748328" duration="7989000" />
+      <workItem from="1629252736055" duration="9326000" />
+      <workItem from="1629271831148" duration="1321000" />
+      <workItem from="1629275470535" duration="22024000" />
+      <workItem from="1629371970035" duration="11470000" />
+      <workItem from="1629520421873" duration="3943000" />
+      <workItem from="1629536980815" duration="6389000" />
+      <workItem from="1629679808689" duration="2712000" />
+      <workItem from="1629682851935" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.3.9/spring-jdbc-5.3.9-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java</url>
+          <line>381</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.3.9/spring-jdbc-5.3.9-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java</url>
+          <line>379</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>220</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>233</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>152</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>161</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/apache-maven-3.6.0/mvn_repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class</url>
+          <line>225</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="var11" />
+        <watch expression="rs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo1$SpringJunitTest_test1.ic" NAME="SpringJunitTest.test1 Coverage Results" MODIFIED="1629164114229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+service\impl\UserServiceImpl.class
+domain\Role.class
+controller\UserController.class
+service\UserService.class
+dao\impl\UserDaoImpl$1.class
+dao\UserDao.class
+interceptor\PrivilegeInterceptor.class
+dao\impl\UserDaoImpl.class
+dao\impl\RoleDaoImpl.class
+domain\User.class
+service\impl\RoleServiceImpl.class
+controller\RoleController.class
+service\RoleService.class
+dao\RoleDao.class

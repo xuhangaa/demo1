@@ -1,0 +1,13 @@
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\service\UserService.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\domain\User.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\dao\impl\RoleDaoImpl.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\domain\Role.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\interceptor\PrivilegeInterceptor.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\controller\RoleController.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\dao\UserDao.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\dao\impl\UserDaoImpl.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\controller\UserController.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\service\RoleService.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\dao\RoleDao.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\service\impl\RoleServiceImpl.java
+D:\Users\xh\IdeaProjects\Spring\spring_test\src\main\java\service\impl\UserServiceImpl.java

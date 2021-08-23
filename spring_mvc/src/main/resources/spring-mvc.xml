@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+    <!--Controller 的组件扫描-->
+    <context:component-scan base-package="com">
+        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
+    </context:component-scan>
+
+<!--    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">-->
+<!--        <property name="messageConverters">-->
+<!--            <list>-->
+<!--                <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/>-->
+<!--            </list>-->
+<!--        </property>-->
+<!--    </bean>-->
+
+<!--    用于通过jackson直接返回对象的json字符串-->
+<!--    自定义转换器conversion-service-->
+    <mvc:annotation-driven conversion-service="conversionService"/>
+
+<!--    开放静态资源的访问-->
+<!--    <mvc:resources mapping="/js/**" location="/js/"/>-->
+
+<!--    交给原始的容器tomcat去寻找资源-->
+    <mvc:default-servlet-handler/>
+
+<!--    声明转换器-->
+    <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">
+        <property name="converters">
+            <list>
+                <bean class="com.converter.DateConverter"></bean>
+            </list>
+        </property>
+    </bean>
+
+<!--    配置文件上传解析器-->
+<!--    这个地方id的名字不是随便取得-->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"/>
+        <property name="maxUploadSize" value="50000"/>
+    </bean>
+
+</beans>
